@@ -82,26 +82,6 @@ Here's what I've been working on:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=riteshpen&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" alt="Ritesh's GitHub Stats" width="48%"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riteshpen&theme=tokyonight&border_radius=10&hide_border=true" alt="Ritesh's GitHub Streak" width="48%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshpen&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="Top Languages" width="50%"/>
-
-</div>
-
----
-
 ## 🔬 Featured Projects
 
 | Project                                  | Description                                                                                                                                                                             | Link                                                            |
