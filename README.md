@@ -11,7 +11,6 @@
 <a href="https://www.linkedin.com/in/riteshpenumatsa/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:riteshstem@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://riteshpen.github.io/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href>
 
 </div>
 
@@ -43,41 +42,41 @@ Here's what I've been working on:
 
   <p><strong>Languages & Data</strong></p>
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
+  <a href="https://scipy.org/" target="_blank"><img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/></a>
 
   <br/>
 
   <p><strong>Machine Learning & AI</strong></p>
 
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://streamlit.io/" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/></a>
 
   <br/>
 
   <p><strong>Data Science</strong></p>
 
-  <img src="https://img.shields.io/badge/Regression-4B5563?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Classification-4B5563?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-4B5563?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer_Vision-4B5563?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Time_Series-4B5563?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Statistical_Analysis-4B5563?style=for-the-badge"/>
+  <a href="https://en.wikipedia.org/wiki/Regression_analysis" target="_blank"><img src="https://img.shields.io/badge/Regression-4B5563?style=for-the-badge"/></a>
+  <a href="https://en.wikipedia.org/wiki/Statistical_classification" target="_blank"><img src="https://img.shields.io/badge/Classification-4B5563?style=for-the-badge"/></a>
+  <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank"><img src="https://img.shields.io/badge/NLP-4B5563?style=for-the-badge"/></a>
+  <a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank"><img src="https://img.shields.io/badge/Computer_Vision-4B5563?style=for-the-badge"/></a>
+  <a href="https://en.wikipedia.org/wiki/Time_series" target="_blank"><img src="https://img.shields.io/badge/Time_Series-4B5563?style=for-the-badge"/></a>
+  <a href="https://en.wikipedia.org/wiki/Statistics" target="_blank"><img src="https://img.shields.io/badge/Statistical_Analysis-4B5563?style=for-the-badge"/></a>
 
   <br/>
 
   <p><strong>Cloud, Databases & Tools</strong></p>
 
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+  <a href="https://github.com/riteshpen" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
